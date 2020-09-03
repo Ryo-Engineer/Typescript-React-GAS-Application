@@ -10,14 +10,18 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "firebase": "^7.19.1",
+    "firebase-tools": "^8.9.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "cd \"$RESOURCE_DIR\"/public && react-scripts start",
+    "build": "cd \"$RESOURCE_DIR\"/public && react-scripts build",
+    "deploy": "cd \"$RESOURCE_DIR\" && firebase deploy",
+    "buiploy": "cd \"$RESOURCE_DIR\"/public && react-scripts build $$ cd \"$RESOURCE_DIR\" && firebase deploy",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
