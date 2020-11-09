@@ -1,0 +1,367 @@
+[
+  {
+    "department": "PlanningAndEvaluation",
+    "addInfo": [
+      {
+        "id": "A-01",
+        "imageName": "ai_pae_01",
+        "title": "競合他社の開発情報"
+      },
+      {
+        "id": "A-02",
+        "imageName": "ai_pae_02",
+        "title": "意匠の重要性について"
+      },
+      {
+        "id": "A-03",
+        "imageName": "ai_pae_03",
+        "title": "生産台数の目標と影響因子"
+      },
+      {
+        "id": "A-04",
+        "imageName": "ai_pae_04",
+        "title": "スポイラーの長さ L と意匠性の関係"
+      },
+      {
+        "id": "A-05",
+        "imageName": "ai_pae_05",
+        "title": "スポイラーの穴の前方角度αと意匠性の関係"
+      },
+      {
+        "id": "A-06",
+        "imageName": "ai_pae_06",
+        "title": "バックドアの基本形状と意匠性への影響"
+      },
+      {
+        "id": "A-07",
+        "imageName": "ai_pae_07",
+        "title": "鉄の性質と仕入れ価格"
+      },
+      {
+        "id": "A-08",
+        "imageName": "ai_pae_08",
+        "title": "アルミの性質と仕入れ価格"
+      },
+      {
+        "id": "A-09",
+        "imageName": "ai_pae_09",
+        "title": "樹脂の性質と仕入れ価格"
+      },
+      {
+        "id": "A-10",
+        "imageName": "ai_pae_10",
+        "title": "仕入れ価格まとめと１年間で使用する原材料コスト"
+      },
+      {
+        "id": "A-11",
+        "imageName": "ai_pae_11",
+        "title": "仕入れ重量・仕入れ価格に関する注意"
+      },
+      {
+        "id": "A-12",
+        "imageName": "ai_pae_12",
+        "title": "目標値の設定①Cd値の考え方"
+      },
+      {
+        "id": "A-13",
+        "imageName": "ai_pae_13",
+        "title": "目標値の設定②重量の考え方"
+      },
+      {
+        "id": "A-14",
+        "imageName": "ai_pae_14",
+        "title": "目標値の設定③予算の考え方"
+      },
+      {
+        "id": "A-15",
+        "imageName": "ai_pae_15",
+        "title": "生産に関する新技術①鉄のレーザースクリュー溶接"
+      },
+      {
+        "id": "A-16",
+        "imageName": "ai_pae_16",
+        "title": "生産に関する新技術②アルミの摩擦熱溶接"
+      },
+      {
+        "id": "A-17",
+        "imageName": "ai_pae_17",
+        "title": "アルミの摩擦熱溶接に関する注意点"
+      },
+      {
+        "id": "A-18",
+        "imageName": "ai_pae_18",
+        "title": "生産に関する新技術③樹脂成型時の温度センサー活用"
+      },
+      {
+        "id": "A-19",
+        "imageName": "ai_pae_19",
+        "title": "生産に関する新技術④鉄溶接の新型の小型ロボットについて"
+      },
+      {
+        "id": "A-20",
+        "imageName": "ai_pae_20",
+        "title": "生産に関する新技術⑤塗り絵式塗装技術"
+      },
+      {
+        "id": "A-21",
+        "imageName": "ai_pae_21",
+        "title": "生産ラインにおける人員増強について"
+      },
+      {
+        "id": "A-22",
+        "imageName": "ai_pae_22",
+        "title": "複雑な形状のバックドアの製造"
+      }
+    ]
+  },
+  {
+    "department": "Design",
+    "addInfo": [
+      {
+        "id": "B-01",
+        "imageName": "ai_d_01",
+        "title": "アイドル共振について"
+      },
+      {
+        "id": "B-02",
+        "imageName": "ai_d_02",
+        "title": "ロックアップ共振について"
+      },
+      {
+        "id": "B-03",
+        "imageName": "ai_d_03",
+        "title": "固有振動数の計算式"
+      },
+      {
+        "id": "B-04",
+        "imageName": "ai_d_04",
+        "title": "固有振動数に関する定数 k の値一覧"
+      },
+      {
+        "id": "B-05",
+        "imageName": "ai_d_05",
+        "title": "RF厚みとバックドア重量の関係①インナーとアウターが鉄の場合"
+      },
+      {
+        "id": "B-06",
+        "imageName": "ai_d_06",
+        "title": "RF厚みとバックドア重量の関係②インナーとアウターがアルミの場合"
+      },
+      {
+        "id": "B-07",
+        "imageName": "ai_d_07",
+        "title": "RF厚みとバックドア重量の関係③インナーとアウターが樹脂の場合"
+      },
+      {
+        "id": "B-08",
+        "imageName": "ai_d_08",
+        "title": "鉄の降伏応力"
+      },
+      {
+        "id": "B-09",
+        "imageName": "ai_d_09",
+        "title": "アルミニウムの耐力"
+      },
+      {
+        "id": "B-10",
+        "imageName": "ai_d_10",
+        "title": "RFの断面形状"
+      },
+      {
+        "id": "B-11",
+        "imageName": "ai_d_11",
+        "title": "余裕を持った強度設計の必要性"
+      },
+      {
+        "id": "B-12",
+        "imageName": "ai_d_12",
+        "title": "断面係数とは"
+      },
+      {
+        "id": "B-13",
+        "imageName": "ai_d_13",
+        "title": "RFの図心距離と断面二次モーメントの計算式"
+      },
+      {
+        "id": "B-14",
+        "imageName": "ai_d_14",
+        "title": "燃費５％向上の意味【基本】"
+      },
+      {
+        "id": "B-15",
+        "imageName": "ai_d_15",
+        "title": "走行時の抵抗と燃費の関係"
+      },
+      {
+        "id": "B-16",
+        "imageName": "ai_d_16",
+        "title": "空気密度の計算式【解説】"
+      },
+      {
+        "id": "B-17",
+        "imageName": "ai_d_17",
+        "title": "空気抵抗の計算式"
+      },
+      {
+        "id": "B-18",
+        "imageName": "ai_d_18",
+        "title": "「A100」と「B100」の空気抵抗の値"
+      },
+      {
+        "id": "B-19",
+        "imageName": "ai_d_19",
+        "title": "摩擦抵抗の計算式"
+      },
+      {
+        "id": "B-20",
+        "imageName": "ai_d_20",
+        "title": "「A100」と「B100」の摩擦抵抗の値"
+      },
+      {
+        "id": "B-21",
+        "imageName": "ai_d_21",
+        "title": "走行時の抵抗に影響する数値のまとめ"
+      },
+      {
+        "id": "B-22",
+        "imageName": "ai_d_22",
+        "title": "５％の燃費改善のための具体的な走行抵抗の目標値"
+      },
+      {
+        "id": "B-23",
+        "imageName": "ai_d_23",
+        "title": "スポイラーの長さ L とCd値低減効果の関係"
+      },
+      {
+        "id": "B-24",
+        "imageName": "ai_d_24",
+        "title": "スポイラーの後方角度θとCd値の低減効果"
+      },
+      {
+        "id": "B-25",
+        "imageName": "ai_d_25",
+        "title": "スポイラー穴の前方角度αとCd値の低減効果"
+      },
+      {
+        "id": "B-26",
+        "imageName": "ai_d_26",
+        "title": "性能改善のための他部門との協力"
+      },
+      {
+        "id": "B-27",
+        "imageName": "ai_d_27",
+        "title": "目標性能の見直し"
+      },
+      {
+        "id": "B-28",
+        "imageName": "ai_d_28",
+        "title": "断面係数 Z の計算結果"
+      }
+    ]
+  },
+  {
+    "department": "IndustrialTechnology",
+    "addInfo": [
+      {
+        "id": "C-01",
+        "imageName": "ai_it_01",
+        "title": "溶接個所（打点）の増加によるメリットとデメリット"
+      },
+      {
+        "id": "C-02",
+        "imageName": "ai_it_02",
+        "title": "打点と強度の関係"
+      },
+      {
+        "id": "C-03",
+        "imageName": "ai_it_03",
+        "title": "スポイラーの製造に関する負角について"
+      },
+      {
+        "id": "C-04",
+        "imageName": "ai_it_04",
+        "title": "「B100」に関する負角"
+      },
+      {
+        "id": "C-05",
+        "imageName": "ai_it_05",
+        "title": "アルミの接合（リベット接合）と必要ロボット数の関係性"
+      },
+      {
+        "id": "C-06",
+        "imageName": "ai_it_06",
+        "title": "樹脂を使用した工程についての概要"
+      },
+      {
+        "id": "C-07",
+        "imageName": "ai_it_07",
+        "title": "工程についての解説①プレス"
+      },
+      {
+        "id": "C-08",
+        "imageName": "ai_it_08",
+        "title": "工程についての解説②樹脂の成型（流し込み）"
+      },
+      {
+        "id": "C-09",
+        "imageName": "ai_it_09",
+        "title": "工程についての解説③塗装（樹脂製バックドア）"
+      },
+      {
+        "id": "C-10",
+        "imageName": "ai_it_10",
+        "title": "工程についての解説④インナーとRFのセット"
+      },
+      {
+        "id": "C-11",
+        "imageName": "ai_it_11",
+        "title": "工程についての解説⑤インナーとRFの溶接"
+      },
+      {
+        "id": "C-12",
+        "imageName": "ai_it_12",
+        "title": "工程についての解説⑥インナーとRFの接着（樹脂製バックドア）"
+      },
+      {
+        "id": "C-13",
+        "imageName": "ai_it_13",
+        "title": "工程についての解説⑦アウターセット"
+      },
+      {
+        "id": "C-14",
+        "imageName": "ai_it_14",
+        "title": "工程についての解説⑧アウターへの接着剤塗布"
+      },
+      {
+        "id": "C-15",
+        "imageName": "ai_it_15",
+        "title": "工程についての解説⑨インナーのかぶせ"
+      },
+      {
+        "id": "C-16",
+        "imageName": "ai_it_16",
+        "title": "工程についての解説⑩アウター曲げ（鉄・アルミ製バックドア）"
+      },
+      {
+        "id": "C-17",
+        "imageName": "ai_it_17",
+        "title": "工程についての解説⑪アウターの加圧（樹脂製バックドア）"
+      },
+      {
+        "id": "C-18",
+        "imageName": "ai_it_18",
+        "title": "アウター曲げへのプレス機の導入（鉄・アルミ製バックドア）"
+      },
+      {
+        "id": "C-19",
+        "imageName": "ai_it_19",
+        "title": "生産工程へのIoTの応用～自動搬送車の導入～"
+      },
+      {
+        "id": "C-20",
+        "imageName": "ai_it_20",
+        "title": "バリ処理による安全性の向上"
+      }
+    ]
+  }
+]

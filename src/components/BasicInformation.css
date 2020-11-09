@@ -1,0 +1,22 @@
+.BasicInformation {
+    margin: 0 5vw;
+    width: 100vh;
+}
+
+.BasicInformation img {
+    /*width: 69vw;*/
+    height: 61vh;
+}
+
+.slick-prev {
+    left: -50px;
+}
+
+.slick-prev:before, .slick-next:before{
+    font-size: 40px;
+}
+
+/*.SideMenuControl img {*/
+
+
+/*}*/

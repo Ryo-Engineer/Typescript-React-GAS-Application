@@ -1,0 +1,41 @@
+.AdditionalInformation ul{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5vh 5vw;
+    height: 56vh;
+    width: 69vw;
+    overflow: scroll;
+}
+
+.AdditionalInformation li {
+    transform: scale(1, 1);
+    transition: 0.1s;
+    margin: 5px 3px;
+    padding: 10px;
+    border: solid 1px black;
+    border-radius: 5px;
+    height: 10vh;
+    width: 150px;
+    background: white;
+}
+
+.AdditionalInformation li:hover {
+    transform: scale(1.5, 1.5);
+    z-index: 100;
+}
+
+.AdditionalInformation li .id{
+    text-align: center;
+}
+
+.AdditionalInformation button{
+    position: absolute;
+    top:10px;
+    right: 10px;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    font-size: 20px;
+}

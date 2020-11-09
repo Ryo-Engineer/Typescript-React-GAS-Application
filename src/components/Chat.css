@@ -1,0 +1,44 @@
+.Chat {
+/*border:solid 1px black;*/}
+
+.Chat {
+    margin: 5px;
+    height: 22vh;
+    width: 300px;
+    background: white;
+}
+
+.Receive {
+    margin: 1vh 1vw;
+    height: 14vh;
+    overflow: scroll;
+}
+
+.Message {
+    margin-bottom: 5px;
+    line-height: 3vh;
+}
+
+.Send{
+    display: flex;
+    height: 5vh;
+    background: white;
+}
+.ChatBox {
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.ChatBox textarea{
+    width: 230px;
+}
+
+.ChatBox button{
+    border: solid 1px black;
+    height: 4vh;
+    width: 50px;
+    background: #999;
+}

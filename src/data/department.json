@@ -1,0 +1,15 @@
+[
+  {
+    "logicalName": "PlanningAndEvaluation",
+    "physicalName": "企画・評価"
+  },
+  {
+    "logicalName": "Design",
+    "physicalName": "設計"
+  },
+  {
+    "logicalName": "IndustrialTechnology",
+    "physicalName": "生産技術"
+  }
+]
+

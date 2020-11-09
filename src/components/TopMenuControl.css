@@ -1,0 +1,68 @@
+.TopMenuControl {
+    display: flex;
+    background: #ccc;
+}
+
+.TopMenuControl ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TopMenuControl li {
+    width: 500px;
+    line-height: 6vh;
+    text-align: center;
+    color: white;
+
+}
+
+.TopMenuControl .part1 {
+    width: 500px;
+}
+
+.TopMenuControl .part1 li {
+    border-right: solid 3px #ccc;
+    background: #555;
+}
+.TopMenuControl .part1 button{
+    height: 6vh;
+    width: 150px;
+    color: white;
+}
+
+
+.TopMenuControl .part2 {
+    width: 100%;
+}
+
+.TopMenuControl .part2 li {
+    overflow: hidden;
+    margin: 0 5px;
+    width: 100px;
+    border-radius: 5px;
+    line-height: 4vh;
+    background: #999;
+}
+
+.TopMenuControl .part3 {
+    flex-wrap: wrap;
+    width: 200px;
+}
+
+.TopMenuControl .part3 li {
+    overflow: hidden;
+    width: 200px;
+    line-height: 1.5vh;
+    font-size: 1.3vh;
+    color: black;
+}
+
+.TopMenuControl #TeamName {
+    font-weight: 900;
+}
+
+/*タブ選択時*/
+.TopMenuControl #selected {
+    background: red;
+}

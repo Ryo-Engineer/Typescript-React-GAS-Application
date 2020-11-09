@@ -1,0 +1,14 @@
+[
+  {
+    "logicalName": "BasicInformation",
+    "physicalName": "基本情報"
+  },
+  {
+    "logicalName": "AdditionalInformation",
+    "physicalName": "追加情報"
+  },
+  {
+    "logicalName": "TrialAndProduction",
+    "physicalName": "試作・本制作"
+  }
+]

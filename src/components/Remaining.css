@@ -1,0 +1,52 @@
+.Remaining {
+    margin: 5px;
+    height: 20vh;
+    width: 200px;
+}
+
+.RemainingMonth {
+    height: 18vh;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.Calendar {
+    display: flex;
+    justify-content: space-around;
+    line-height: 10vh;
+    padding: 5px;
+    background: white;
+}
+
+#img {
+    width: 65px;
+    height: 80px;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/toyota-one-professionals.appspot.com/o/sample%2Fcalendar.png?alt=media&token=b60f9a80-230b-4cb2-9427-b013da214328");
+    background-size: contain;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.Meter {
+    background: white;
+    line-height: 4vh;
+}
+.Meter meter{
+    margin:10px;
+    height: 10px;
+    width: 180px;
+}
+
+
+.RemainingTime {
+    border-radius: 20px;
+    background: black;
+    color: white;
+    line-height: 4vh;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 24px;
+    font-weight: 500;
+}

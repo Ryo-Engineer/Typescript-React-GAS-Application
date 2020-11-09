@@ -1,0 +1,19 @@
+#container{
+display: flex;
+
+
+}
+.Production table{
+    margin-top: 80px;
+}
+
+
+.Production img{
+    height: 200px;
+    width: auto;
+}
+
+.Production li{
+    margin-top: 10px;
+    margin-left: 20px;
+}

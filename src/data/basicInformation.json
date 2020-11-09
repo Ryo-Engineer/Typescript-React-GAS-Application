@@ -1,0 +1,46 @@
+[
+  {
+    "department": "Common",
+    "basicInfo": [
+      {"imageName": "bi_cmn_01"},
+      {"imageName": "bi_cmn_02"},
+      {"imageName": "bi_cmn_03"},
+      {"imageName": "bi_cmn_04"}
+    ]
+  },
+  {
+    "department": "PlanningAndEvaluation",
+    "basicInfo": [
+      {"imageName": "bi_pae_01"},
+      {"imageName": "bi_pae_02"},
+      {"imageName": "bi_pae_03"},
+      {"imageName": "bi_pae_04"},
+      {"imageName": "bi_pae_05"}
+    ]
+  },
+  {
+    "department": "Design",
+    "basicInfo": [
+      {"imageName": "bi_d_01"},
+      {"imageName": "bi_d_02"},
+      {"imageName": "bi_d_03"},
+      {"imageName": "bi_d_04"},
+      {"imageName": "bi_d_05"},
+      {"imageName": "bi_d_06"},
+      {"imageName": "bi_d_07"},
+      {"imageName": "bi_d_08"}
+    ]
+  },
+  {
+    "department": "IndustrialTechnology",
+    "basicInfo": [
+      {"imageName": "bi_it_01"},
+      {"imageName": "bi_it_02"},
+      {"imageName": "bi_it_03"},
+      {"imageName": "bi_it_04"},
+      {"imageName": "bi_it_05"},
+      {"imageName": "bi_it_06"},
+      {"imageName": "bi_it_07"}
+    ]
+  }
+]

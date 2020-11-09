@@ -1,0 +1,53 @@
+.ObtainedAdditionalInformation ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    height: 22vh;
+    width: auto;
+    overflow: scroll;
+    background: white;
+}
+
+
+
+.ObtainedAdditionalInformation li {
+    box-sizing: border-box;
+    margin: 0.5vh 0.5vw;
+    border: solid 1px black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    height: 100px;
+}
+
+.ObtainedAdditionalInformation li .id{
+    text-align: center;
+}
+
+.ObtainedAdditionalInformation .obtained:hover {
+    box-sizing: border-box;
+    border: solid 2px black;
+    border-radius: 5px;
+    background: #eeeeee;
+}
+
+.ObtainedAdditionalInformation .top {
+    background: #cccccc;
+}
+
+.ObtainedAdditionalInformation button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 20px;
+}
+
+
+/*.ObtainedAdditionalInformation li img {*/
+/*    width: 150px;*/
+/*}*/

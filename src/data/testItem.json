@@ -1,0 +1,462 @@
+[
+  {
+    "department": "PlanningAndEvaluation",
+    "logicalName": "drag_coefficient",
+    "physicalName": "Cd値",
+    "group": 1,
+    "sequence": 1,
+    "values": [
+      "0.25",
+      "0.26",
+      "0.27",
+      "0.28",
+      "0.29",
+      "0.30",
+      "0.31"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "PlanningAndEvaluation",
+    "logicalName": "weight_goal",
+    "physicalName": "重量目標",
+    "group": 1,
+    "sequence": 2,
+    "values": [
+      "12kg以内",
+      "15kg以内",
+      "18kg以内",
+      "21kg以内",
+      "24kg以内"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "PlanningAndEvaluation",
+    "logicalName": "budget",
+    "physicalName": "予算",
+    "group": 1,
+    "sequence": 3,
+    "values": [
+      "4億円以内",
+      "5億円以内",
+      "6億円以内",
+      "7億円以内",
+      "8億円以内",
+      "9億円以内",
+      "9億円超"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "basic_shape",
+    "physicalName": "基本形状",
+    "group": 2,
+    "sequence": 1,
+    "values": [
+      "パターンA",
+      "パターンB",
+      "パターンC"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "material",
+    "physicalName": "材質",
+    "group": 2,
+    "sequence": 2,
+    "values": [
+      "鉄/鉄/鉄",
+      "アルミニウム/アルミニウム/アルミニウム",
+      "樹脂/樹脂/鉄"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "rf_board_thickness",
+    "physicalName": "RFの板厚",
+    "group": 2,
+    "sequence": 3,
+    "values": [
+      "1.3mm",
+      "1.4mm",
+      "1.5mm",
+      "1.6mm",
+      "1.7mm",
+      "1.8mm"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "point_spacing",
+    "physicalName": "打点間距離",
+    "group": 2,
+    "sequence": 4,
+    "values": [
+      "30mm",
+      "25mm",
+      "20mm",
+      "選択無し"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "length_l",
+    "physicalName": "長さL",
+    "group": 2,
+    "sequence": 5,
+    "values": [
+      "100mm",
+      "200mm",
+      "300mm",
+      "400mm"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "angle_t",
+    "physicalName": "角度θ",
+    "group": 2,
+    "sequence": 6,
+    "values": [
+      "5度",
+      "10度",
+      "15度",
+      "20度"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "presence_or_absence_of_holes",
+    "physicalName": "穴の有無",
+    "group": 2,
+    "sequence": 7,
+    "values": [
+      "穴有り",
+      "穴無し"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "Design",
+    "logicalName": "angle_a",
+    "physicalName": "角度α",
+    "group": 2,
+    "sequence": 8,
+    "values": [
+      "20度",
+      "30度",
+      "40度",
+      "50度"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_outer_RF_press",
+    "physicalName": "インナー・アウター・RFのプレス",
+    "group": 3,
+    "sequence": 1,
+    "values": [
+      "未選択",
+      "設定調整",
+      "型の入れ替え",
+      "新プレス機の導入"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "RF_press",
+    "physicalName": "RFのプレス",
+    "group": 3,
+    "sequence": 2,
+    "values": [
+      "未選択",
+      "設定調整",
+      "型の入れ替え",
+      "新プレス機の導入"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_outer_pour",
+    "physicalName": "インナーとアウターの流し込み",
+    "group": 3,
+    "sequence": 3,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "outer_painting",
+    "physicalName": "アウターの塗装",
+    "group": 3,
+    "sequence": 4,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_RF_set",
+    "physicalName": "インナーとRFのセット",
+    "group": 3,
+    "sequence": 5,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_RF_welding",
+    "physicalName": "インナーとRFの溶接",
+    "group": 3,
+    "sequence": 6,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_RF_adhesive",
+    "physicalName": "インナーとRFの接着",
+    "group": 3,
+    "sequence": 7,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_RF_riveting",
+    "physicalName": "インナーとRFのリベット接合",
+    "group": 3,
+    "sequence": 8,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "outer_set",
+    "physicalName": "アウターセット",
+    "group": 3,
+    "sequence": 9,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "outer_adhesive_application",
+    "physicalName": "アウターへの接着剤塗布",
+    "group": 3,
+    "sequence": 10,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "inner_cover",
+    "physicalName": "インナーのかぶせ",
+    "group": 3,
+    "sequence": 11,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "outer_bending",
+    "physicalName": "アウター曲げ",
+    "group": 3,
+    "sequence": 12,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "outer_pressurization",
+    "physicalName": "アウターの加圧",
+    "group": 3,
+    "sequence": 13,
+    "values": [
+      "未選択",
+      "新設",
+      "既存設備の応用"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "new_technology",
+    "physicalName": "新技術の導入",
+    "group": 4,
+    "sequence": 1,
+    "values": [
+      "未選択",
+      "レーザースクリュー溶接技術",
+      "摩擦溶接技術",
+      "新型の小型炉溶接ロボット"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "welding_point_increase",
+    "physicalName": "打点数増強",
+    "group": 4,
+    "sequence": 2,
+    "values": [
+      "未選択",
+      "打点間距離35mm",
+      "打点間距離20mm"
+    ],
+    "type": "select",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "use_of_press_machine_for_outer_bending",
+    "physicalName": "アウター曲げでのプレス機利用",
+    "group": 4,
+    "sequence": 3,
+    "values": [
+      "未選択",
+      "選択"
+    ],
+    "type": "checkbox",
+    "units": true
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "automatic_guided_vehicle",
+    "physicalName": "自動搬送車",
+    "group": 4,
+    "sequence": 4,
+    "values": [
+      "未選択",
+      "選択"
+    ],
+    "type": "checkbox",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "staffing",
+    "physicalName": "人員増強",
+    "group": 4,
+    "sequence": 5,
+    "values": [
+      "未選択",
+      "選択"
+    ],
+    "type": "checkbox",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "use_of_sensors_in_resin_molding",
+    "physicalName": "樹脂成形でのセンサー利用",
+    "group": 4,
+    "sequence": 6,
+    "values": [
+      "未選択",
+      "選択"
+    ],
+    "type": "checkbox",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "burr_processing_grinder",
+    "physicalName": "バリ処理の研磨機",
+    "group": 4,
+    "sequence": 7,
+    "values": [
+      "未選択",
+      "選択"
+    ],
+    "type": "checkbox",
+    "units": false
+  },
+  {
+    "department": "IndustrialTechnology",
+    "logicalName": "coloring_book_painting",
+    "physicalName": "塗り絵式塗装",
+    "group": 4,
+    "sequence": 8,
+    "values": [
+      "未選択",
+      "選択"
+    ],
+    "type": "checkbox"
+  }
+]

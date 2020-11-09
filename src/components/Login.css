@@ -1,0 +1,39 @@
+.Login .title{
+    height: 70px;
+    background: red;
+    color: white;
+    line-height: 70px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.Login table{
+    margin: 70px auto;
+
+}
+
+.Login td{
+    height: 30px;
+    width: 200px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.Login input,.Login select{
+    width: 200px;
+}
+
+.Login button{
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    background: red;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
